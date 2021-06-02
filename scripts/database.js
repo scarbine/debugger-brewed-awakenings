@@ -101,7 +101,7 @@ const database = {
     }, {
         productId: 4, employeeId: 1, timestamp: 1614528112396
     }, {
-        productId: 5, employeeId: 8, timestamp: 1614598112396
+        productId: 5, employeeId: 4, timestamp: 1614598112396
     }, {
         productId: 2, employeeId: 9, timestamp: 1614630112396
     }, {
